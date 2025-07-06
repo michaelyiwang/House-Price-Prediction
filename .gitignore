@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+
+# dataset
+california_housing_modified.csv
+housing.csv
+
+# Mac
+.DS_Store
