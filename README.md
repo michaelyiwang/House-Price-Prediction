@@ -65,11 +65,11 @@ This project used real estate data to predict the **median house value** based o
 
 | Model                           | R² Score   |
 | ------------------------------  | ---------- |
-| Linear Regression               | \~         |
-| Random Forest                   | \~         |
+| Linear Regression               |            |
+| Random Forest                   |            |
 | **Random Forest + GridSearch**  | ✅ **Best**|
-| SVR (RBF Kernel)                | \~         |
-| KNN Regressor                   | \~         |
+| SVR (RBF Kernel)                |            |
+| KNN Regressor                   |            |
 
 > ✅ Best performance achieved using **Random Forest with GridSearchCV**.
 
@@ -96,5 +96,5 @@ Predicted **Median House Value** (in USD).
 ## 🙋‍♂️ Author
 
 **Yi Wang**
-AI Student · Machine Learning Enthusiast
+- AI Student · Machine Learning Enthusiast
 📧 yiwang.ai.tech@gmail.com
