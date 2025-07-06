@@ -96,5 +96,6 @@ Predicted **Median House Value** (in USD).
 ## 🙋‍♂️ Author
 
 **Yi Wang**
-- AI Student · Machine Learning Enthusiast
-📧 yiwang.ai.tech@gmail.com
+- AI Student
+- Machine Learning Enthusiast
+- 📧 yiwang.ai.tech@gmail.com
